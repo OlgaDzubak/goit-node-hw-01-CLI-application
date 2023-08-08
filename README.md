@@ -1,4 +1,4 @@
-# goit-node-hw-01-cli
+# goit-node-hw-01-cli-application
 
 Testing results (follow the links to see screenshots of testing results):
 __________________________________________________________________________________
